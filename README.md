@@ -1,35 +1,48 @@
-# Tableau-Dashboard
+# Airbnb Tableau Dashboard
 
 ## Overview
-An interactive data visualization project developed using Tableau to explore trends and communicate insights from a dataset.
 
+An interactive data visualization project developed using Tableau to analyze Airbnb data, identify trends, and communicate insights through an intuitive dashboard.
 
+The project focuses on transforming raw Airbnb data into meaningful visual insights using interactive charts, KPIs, and dashboard design principles.
+
+## Dashboard Preview
+
+![Airbnb Dashboard](screenshots/AirBnB_Project_Dashboard.png)
 
 ## Tools & Technologies
 
-Tableau
-Data Visualization
-Dashboard Design
-Data Analysis
+- Tableau Public
+- Data Visualization
+- Dashboard Design
+- Data Analysis
 
+## Project Approach
 
+- Data exploration and preparation
+- KPI definition
+- Trend analysis
+- Interactive dashboard creation
+- Visual storytelling to communicate insights
 
-## Approach
+## Key Features
 
-Data preparation
-KPI definition
-Interactive dashboard creation
-Visual storytelling
-
-
+- Interactive dashboard with filters
+- KPI tracking and trend visualization
+- User-friendly dashboard layout
+- Data-driven insights presentation
 
 ## Results
-Created an interactive dashboard that presents key trends and supports data-driven decision making.
 
+Created an interactive Tableau dashboard that transforms Airbnb data into meaningful insights and supports data-driven decision making.
 
+## Tableau Public Dashboard
 
-## Contact
-For further information about this project, feel free to contact me via email or LinkedIn.
+View the interactive dashboard:
 
-Email: faranak.soleymani@gmail.com  
-LinkedIn: https://www.linkedin.com/in/faranaksoleymani/
+https://public.tableau.com/app/profile/faranak.soleymani/viz/AirBnBProject_17852799170140/Dashboard1?publish=yes
+
+## Project Files
+
+- `AirBnB_Project_Dashboard.twbx` — Tableau packaged workbook
+- `screenshots/AirBnB_Project_Dashboard.png` — Dashboard preview image
