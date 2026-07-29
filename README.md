@@ -42,7 +42,6 @@ View the interactive dashboard:
 
 https://public.tableau.com/app/profile/faranak.soleymani/viz/AirBnBProject_17852799170140/Dashboard1?publish=yes
 
-## Project Files
 
 - `AirBnB_Project_Dashboard.twbx` — Tableau packaged workbook
 - `screenshots/AirBnB_Project_Dashboard.png` — Dashboard preview image
